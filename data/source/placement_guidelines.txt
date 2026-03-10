@@ -1,0 +1,263 @@
+🧭 UNIVERSITY PLACEMENT & INTERNSHIP GUIDELINES
+
+Session: 2025–2026
+Coordinating Body: Career Development & Placement Cell (CDPC)
+Objective: To facilitate internships and full-time placements for BTech, MTech, MBA, and PhD students through campus recruitment.
+
+Students must strictly follow all CDPC rules to participate in placement drives.
+
+🎓 ELIGIBILITY CRITERIA
+Minimum CGPA Required
+
+BTech: 6.0
+
+MTech: 6.5
+
+PhD: No CGPA requirement — must be in good academic standing
+
+Attendance Requirement
+
+Minimum 75% attendance in all registered courses.
+
+Backlog Policy
+
+Students with active backlogs are NOT eligible for placements.
+
+Exception: Final semester backlog may be allowed only for internship placements.
+
+Disciplinary Record
+
+Students with disciplinary issues in the past 12 months are debarred from placements.
+
+🏢 COMPANY CATEGORIES
+Tier-1 Recruiters
+
+Google, Microsoft, Amazon, Meta, NVIDIA
+
+Tier-2 Recruiters
+
+Deloitte, KPMG, Accenture, Infosys, TCS
+
+Core Engineering Companies
+
+Siemens, Bosch, L&T, Mahindra
+
+Data Science & AI
+
+Fractal Analytics, MuSigma, Quantiphi
+
+Electronics & VLSI
+
+Intel, Qualcomm, Texas Instruments, Broadcom
+
+Finance & Management
+
+ICICI Bank, HDFC Bank, EY, PwC
+
+🔄 PLACEMENT PROCESS (STEP-BY-STEP)
+
+Placement registration via portal
+
+Resume submission and verification
+
+Pre-Placement Talk (PPT) by company
+
+Aptitude or online assessment test
+
+Technical interview(s)
+
+HR interview
+
+Final selection announcement
+
+Important Dates
+
+Registration opens: 1 August 2025
+
+Registration closes: 15 September 2025
+
+Aptitude test window: 20–28 September 2025
+
+Interviews from: 15 October 2025 – 30 April 2026
+
+🏢 INTERNSHIP GUIDELINES
+Eligibility
+
+BTech: Eligible after completing 2nd year
+
+MTech: Eligible from 2nd semester
+
+PhD: Allowed with thesis advisor approval
+
+Summer Internship Period
+
+1 May – 31 July 2026
+
+Stipend Policy
+
+Stipends depend solely on company policy; not guaranteed by university.
+
+Internship Report
+
+Must be submitted within 2 weeks after internship completion.
+
+📄 RESUME & DOCUMENT RULES
+Resume Format
+
+Students must use the university-approved single-page format.
+
+Resume Verification
+
+Mandatory before placement participation
+
+Any false information → Permanently debarred
+
+Documents Allowed in Interviews
+
+Verified resume
+
+Student ID
+
+Academic transcripts
+
+Project portfolio (optional)
+
+🧠 APTITUDE TEST DETAILS
+Test Sections
+
+Quantitative aptitude
+
+Logical reasoning
+
+Verbal ability
+
+Basic programming (for tech roles)
+
+Duration
+
+90 minutes
+
+Negative Marking
+
+Varies by company
+
+Recommended Preparation Resources
+
+RS Aggarwal – Quantitative Aptitude
+
+Wiley – Campus Placement Cracker
+
+GeeksforGeeks coding practice
+
+LeetCode DS & Algorithms
+
+🛠️ TECHNICAL INTERVIEW GUIDELINES
+Common Topics by Branch
+
+CSE / IT:
+DSA, Operating Systems, DBMS, Computer Networks, OOP, Basic System Design
+
+AI & Data Science:
+Machine Learning, Statistics, Python, Visualization, ML Deployment
+
+ECE / VLSI:
+Digital Electronics, Microprocessors, VLSI Design, Signals & Systems
+
+Mechanical:
+Thermodynamics, Strength of Materials, Machine Design, Manufacturing
+
+Management:
+Marketing, Finance, Operations, Strategy, Case Studies
+
+Recommended Projects
+
+Full-stack web applications
+
+ML model deployment pipelines
+
+IoT sensor systems
+
+CAD-based mechanical design
+
+VLSI circuit design using industry tools
+
+👔 DRESS CODE
+
+Pre-placement talk: Smart casuals
+
+Aptitude test: Casual allowed
+
+Interviews: Formal attire required
+
+Improper dressing may negatively impact chances as per company feedback.
+
+🧾 BRANCH-WISE ELIGIBILITY
+
+CSE: Software, AI, data, consulting, research
+
+IT: Software, cloud, IT services, web technologies
+
+AI & DS: Data science, ML engineer, AI, analytics
+
+ECE: Electronics, embedded systems, VLSI, telecom, software
+
+Mechanical: Core mechanical, manufacturing, design, automotive
+
+PhD: Research, academic roles, R&D, analyst roles
+
+📜 PLACEMENT RULES & CODE OF CONDUCT
+Rules Students Must Follow
+
+Once selected and offer accepted → student cannot sit for further placements.
+
+Attendance at company PPT sessions is mandatory.
+
+Absenteeism at any stage after applying may lead to debarment.
+
+Confidential company materials must not be shared.
+
+Maintain professional behavior throughout the process.
+
+Penalties
+
+No-show for test: Debarred for the rest of the semester
+
+Fake resume information: Permanent debarment
+
+Interview misconduct: Reported to disciplinary committee
+
+Withdrawing after final selection: Blacklisted from placement cell
+
+🤝 SUPPORT SERVICES BY CDPC
+
+Weekly resume review clinics
+
+Mock interview sessions (on booking)
+
+Career counseling: Every Wednesday & Friday
+
+Training Programs including:
+
+Aptitude Enhancement Program (AEP)
+
+Communication & Soft Skills Workshop
+
+Technical Interview Bootcamp
+
+☎️ CONTACT INFORMATION
+
+Placement Office Email: placements@university.edu
+
+Phone: +91-9008899001
+
+Career Cell Office: Ground Floor, Admin Block
+
+Student Coordinator: +91-9876543210
+
+Emergency Support: +91-112
+
+📌 METADATA
+
+Updated on 5 December 2025
+Timezone: Asia/Kolkata
+Dataset source: Synthetic dataset for RAG-based university placement assistant.

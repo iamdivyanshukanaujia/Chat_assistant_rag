@@ -1,0 +1,22 @@
+[
+    {
+        "query": "What are prerequisites for DS201?",
+        "reference_answer": "The prerequisites for DS201 (Data Structures) are: CS101 (Programming Fundamentals) and Math 101 (Discrete Mathematics). Students must have completed both courses with a minimum grade of C before enrolling in DS201."
+    },
+    {
+        "query": "When does registration close?",
+        "reference_answer": "Registration for the upcoming semester closes on August 15th, 2025 at 5:00 PM. Late registration is available from August 16-20 with a late fee of $50."
+    },
+    {
+        "query": "What is the minimum attendance requirement?",
+        "reference_answer": "The university requires a minimum of 75% attendance in all registered courses. Students below this threshold may face detention and will not be allowed to appear for final exams."
+    },
+    {
+        "query": "How do I apply for hostel accommodation?",
+        "reference_answer": "To apply for hostel accommodation: 1) Log into the student portal, 2) Navigate to Services > Hostel Application, 3) Fill the online form with room preferences, 4) Upload required documents (ID proof, medical certificate), 5) Pay the advance fee of $500. Applications are processed on a first-come-first-served basis."
+    },
+    {
+        "query": "What are the library timings?",
+        "reference_answer": "The Central Library is open Monday-Friday from 8:00 AM to 10:00 PM, and on weekends from 9:00 AM to 6:00 PM. During exam period (last 2 weeks of semester), the library operates 24/7."
+    }
+]

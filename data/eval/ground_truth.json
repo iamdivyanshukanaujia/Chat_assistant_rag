@@ -1,0 +1,39 @@
+[
+    {
+        "query": "What are prerequisites for DS201?",
+        "relevant_docs": [
+            "courses.txt_academic",
+            "program_structures.txt_academic"
+        ],
+        "description": "Should retrieve course information about DS201 prerequisites"
+    },
+    {
+        "query": "When does registration close?",
+        "relevant_docs": [
+            "academic_calendar.txt_academic"
+        ],
+        "description": "Should retrieve registration deadlines"
+    },
+    {
+        "query": "What is the minimum attendance requirement?",
+        "relevant_docs": [
+            "placement_guidelines.txt_academic",
+            "student_handbook.txt_academic"
+        ],
+        "description": "Should retrieve attendance policy (75%)"
+    },
+    {
+        "query": "How do I apply for hostel accommodation?",
+        "relevant_docs": [
+            "hostel_guidelines.txt_academic"
+        ],
+        "description": "Should retrieve hostel application process"
+    },
+    {
+        "query": "What are the library timings?",
+        "relevant_docs": [
+            "library_rules.txt_academic"
+        ],
+        "description": "Should retrieve library hours information"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "test_001",
+        "category": "calendar",
+        "query": "When does the odd semester start?",
+        "ground_truth_answer": "The odd semester (Autumn) starts on July 18, 2025. Classes begin on this date and continue until November 28, 2025."
+    },
+    {
+        "id": "test_002",
+        "category": "academics",
+        "query": "What is the minimum attendance required?",
+        "ground_truth_answer": "The minimum required attendance is 75%. Students with between 65-75% attendance may be allowed only with medical certificates or approved leave. Below 65% attendance, there is no exam eligibility under any circumstances."
+    },
+    {
+        "id": "test_003",
+        "category": "hostel",
+        "query": "What are the hostel curfew timings?",
+        "ground_truth_answer": "The curfew timings are: Boys hostel - 11:00 PM, Girls hostel - 10:00 PM, and International hostel - 11:30 PM. Late entry requires online permission via student portal."
+    },
+    {
+        "id": "test_004",
+        "category": "placement",
+        "query": "What is the minimum CGPA required for placement?",
+        "ground_truth_answer": "The minimum CGPA required is 6.0 for BTech students and 6.5 for MTech students. PhD students have no CGPA cutoff but must be in good academic standing. Students must also have minimum 75% attendance."
+    },
+    {
+        "id": "test_005",
+        "category": "grading",
+        "query": "How is CGPA calculated?",
+        "ground_truth_answer": "CGPA is calculated as the average of all semester SGPAs weighted by credits. SGPA formula is Sum(Credit × GradePoint) / Sum(Credits)."
+    }
+]

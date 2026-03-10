@@ -1,0 +1,358 @@
+🧪 UNIVERSITY LAB SAFETY GUIDELINES (RAG-FRIENDLY FORMAT)
+
+Academic Year: 2025–2026
+Purpose: To promote safe working practices in all engineering and science laboratories.
+Principle: Safety first — no experiment may be performed without supervision and proper protective equipment.
+
+🔰 GENERAL LAB SAFETY RULES
+
+Lab coats, closed shoes, and ID cards must be worn at all times.
+
+Eating, drinking, and chewing gum inside laboratories is prohibited.
+
+Mobile phones must remain on silent and may only be used with permission.
+
+Follow all instructions given by laboratory instructors and staff.
+
+Report unsafe behavior, spills, or damaged equipment immediately to the lab assistant.
+
+Know the location of emergency exits, fire extinguishers, and first-aid kits.
+
+Do not conduct experiments without explicit permission.
+
+Running, horseplay, and loud talking are strictly forbidden.
+
+🥽 PERSONAL PROTECTIVE EQUIPMENT (PPE)
+Mandatory in All Laboratories
+
+Closed-toe shoes
+
+Lab coat or apron
+
+Safety goggles (where required)
+
+University ID card
+
+Additional PPE for Specific Labs
+
+Mechanical Engineering Lab:
+
+Safety shoes
+
+Gloves
+
+Face shield for machining
+
+Chemical Lab:
+
+Chemical-resistant gloves
+
+Face mask
+
+Safety goggles
+
+Electronics Lab:
+
+Antistatic (ESD) wrist strap
+
+ESD-safe footwear
+
+Robotics Lab:
+
+Gloves
+
+Safety shoes
+
+Workshop:
+
+Ear protection
+
+Safety helmet
+
+⚙️ MECHANICAL ENGINEERING LAB SAFETY
+Hazards
+
+Rotating machinery
+
+High-temperature surfaces
+
+Sharp tools
+
+Compressed gas cylinders
+
+Rules
+
+Tie long hair and avoid loose clothing near machines.
+
+Do not operate machines without supervision.
+
+Ensure machine guards and shields are in place.
+
+Use tongs or insulated gloves to handle hot materials.
+
+Remove metal chips with brushes, not bare hands.
+
+Emergency Procedures
+
+Use emergency stop button to shut off machines.
+
+Use a fire blanket for grease fires.
+
+Report all injuries immediately.
+
+💻 COMPUTER LAB SAFETY
+Hazards
+
+Loose wires and tripping risks
+
+Overheating computers
+
+Static discharge
+
+Cable clutter
+
+Rules
+
+Do not connect unauthorized USB drives.
+
+Installation of software is not allowed without lab permission.
+
+No food or drinks near computers.
+
+Save work frequently and properly log out.
+
+Use ESD wrist straps when working with hardware components.
+
+Cyber Safety Rules
+
+Do not access restricted servers or private networks.
+
+Use only licensed software.
+
+Follow university network usage policies.
+
+🤖 AI & DATA SCIENCE LAB SAFETY
+Hazards
+
+High-power GPU systems
+
+Overheating compute servers
+
+Electrical overloads
+
+Sensitive data environments
+
+Rules
+
+Ensure proper ventilation for GPU units.
+
+Never modify server hardware.
+
+Handle datasets securely and follow privacy regulations.
+
+Avoid plugging multiple high-wattage devices into a single extension board.
+
+Data Ethics Guidelines
+
+Use datasets only for approved academic work.
+
+Do not store sensitive personal data without authorization.
+
+Follow fairness, transparency, and responsible AI principles.
+
+🔌 ELECTRONICS LAB SAFETY
+Hazards
+
+Hot soldering irons
+
+High-voltage circuits
+
+Capacitor discharge
+
+Static-sensitive ICs
+
+Rules
+
+Always turn off power before adjusting wiring.
+
+Use fume extractors when soldering.
+
+Wear ESD straps while handling chips.
+
+Discharge capacitors before touching circuits.
+
+Do not work on live circuits without supervision.
+
+Emergency Procedures
+
+Turn off main power supply in case of short circuit.
+
+Use CO₂ fire extinguishers for electrical fires.
+
+⚗️ CHEMISTRY LAB SAFETY
+Hazards
+
+Corrosive chemicals
+
+Flammable substances
+
+Toxic fumes
+
+Glassware breakage
+
+Rules
+
+Always wear gloves and goggles when handling chemicals.
+
+Work inside a fume hood for volatile chemicals.
+
+Label all reagent bottles clearly.
+
+Dispose chemical waste only in designated containers.
+
+Never pipette chemicals by mouth—use pipette fillers.
+
+First Aid Procedures
+
+For chemical spills on skin: rinse under water for 15 minutes.
+
+For chemical eye exposure: use eyewash station immediately.
+
+All accidents must be reported to the instructor.
+
+🔭 PHYSICS LAB SAFETY
+Hazards
+
+Laser beams
+
+High-voltage power supplies
+
+Optical equipment
+
+Cryogenic materials
+
+Rules
+
+Never look directly into lasers or reflections.
+
+Secure optical components to prevent falls.
+
+Handle cryogens with insulated gloves.
+
+Follow voltage safety guidelines strictly.
+
+🤖 ROBOTICS & IOT LAB SAFETY
+Hazards
+
+Moving robotic arms
+
+High-current motors
+
+Battery explosions
+
+Sharp mechanical edges
+
+Rules
+
+Maintain a safe distance from robotic mechanisms.
+
+Turn off power before wiring microcontrollers.
+
+Do not overcharge lithium-ion batteries.
+
+Check motor driver ratings before use.
+
+Equipment Guidelines
+
+Proper grounding of robotics workstations is mandatory.
+
+Emergency stop buttons must be accessible.
+
+Secure all loose wires to avoid entanglement.
+
+🔧 WORKSHOP & MANUFACTURING SAFETY
+Hazards
+
+Grinding sparks
+
+Welding arc flashes
+
+Rotating machinery
+
+Cutting tools
+
+Rules
+
+Wear welding masks during welding operations.
+
+Safety shoes and gloves required at all times.
+
+Never leave machines running unattended.
+
+Clamp workpieces properly before machining.
+
+Equipment Use
+
+Only use angle grinders with protective guards.
+
+Wear ear protection near noisy machines.
+
+Report malfunctioning equipment immediately.
+
+⚠️ HAZARD CLASSIFICATION
+
+Low Risk: Computer Labs, AI Labs (non-hardware tasks)
+
+Medium Risk: Electronics Lab, Physics Lab
+
+High Risk: Mechanical Lab, Workshop, Chemical Lab, Robotics Lab
+
+🚨 INCIDENT REPORTING PROCEDURE
+
+Steps to report lab incidents:
+
+Inform the lab assistant immediately.
+
+Fill the incident form on the Lab Safety Portal.
+
+If injured, visit the campus medical center.
+
+Severe incidents will be reported to the Department Safety Committee.
+
+Emergency Contacts
+
+Campus Ambulance: +91-102
+
+Security: +91-9007788990
+
+Safety Officer Email: safety.officer@university.edu
+
+🔐 LAB ACCESS RULES
+
+Regular Working Hours: 9:00 AM – 6:00 PM
+
+After-hours access is allowed only for:
+
+PhD scholars
+
+Final-year project students
+
+Permission required from the Department Lab Coordinator.
+
+🌱 ENVIRONMENTAL & WASTE DISPOSAL RULES
+
+Chemical waste: dispose only in red-labeled hazardous waste containers.
+
+Electronic waste: place in ESD-approved e-waste bins.
+
+Metal scrap: dispose in mechanical workshop scrap bins.
+
+Biohazard waste: must be handled only by authorized personnel.
+
+📌 METADATA
+
+Updated on: 5 December 2025
+
+Timezone: Asia/Kolkata
+
+Source: Synthetic dataset for University RAG Assistant

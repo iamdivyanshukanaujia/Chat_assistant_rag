@@ -1,0 +1,209 @@
+2025-12-06 09:47:43,278 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 09:47:43,284 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 09:48:52,356 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 09:48:52,372 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 10:25:21,628 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 10:25:21,654 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 10:43:53,786 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 10:43:53,806 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 10:45:01,510 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 10:45:01,528 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 10:46:13,314 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 10:46:13,346 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 10:49:21,668 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 10:49:21,693 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 10:52:46,376 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 10:52:46,413 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 10:58:14,370 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 10:58:14,682 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 10:58:48,752 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 10:58:48,789 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 10:59:25,930 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 10:59:25,975 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 11:00:13,014 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 11:00:13,360 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 11:09:41,783 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 11:09:41,833 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 11:11:39,563 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 11:11:39,624 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 11:15:00,112 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 11:15:00,181 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 11:18:47,477 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 11:18:47,544 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 11:19:23,549 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 11:19:23,621 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 11:20:07,808 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 11:20:07,880 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 11:28:24,452 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 11:28:24,521 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 11:33:26,975 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 11:33:27,045 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 11:39:35,672 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 11:39:35,744 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 11:41:18,102 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 716
+2025-12-06 11:41:18,170 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 716
+2025-12-06 11:57:27,539 - ingestion - INFO - PROCESSING_STARTED: data/academic_support.json
+2025-12-06 11:57:27,540 - ingestion - ERROR - PROCESSING_FAILED: data/academic_support.json | Error: Failed to extract text from data/academic_support.json: Unsupported file type: .json
+2025-12-06 11:58:52,649 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 727
+2025-12-06 11:58:52,721 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 727
+2025-12-06 12:00:51,316 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 727
+2025-12-06 12:00:51,383 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 727
+2025-12-06 12:10:38,319 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 727
+2025-12-06 12:10:38,402 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 727
+2025-12-06 12:48:32,436 - ingestion - INFO - PROCESSING_STARTED: data\source\README.md
+2025-12-06 12:48:32,438 - ingestion - ERROR - PROCESSING_FAILED: data\source\README.md | Error: Failed to extract text from data\source\README.md: No module named 'unstructured'
+2025-12-06 12:48:32,438 - ingestion - INFO - INGESTION_SUMMARY | Files processed: 1 | Files failed: 0 | Total chunks: 0 | Duration: 0.00s
+2025-12-06 12:49:14,624 - ingestion - INFO - PROCESSING_STARTED: data\source\README.md
+2025-12-06 12:49:14,625 - ingestion - ERROR - PROCESSING_FAILED: data\source\README.md | Error: Failed to extract text from data\source\README.md: No module named 'unstructured'
+2025-12-06 12:49:14,625 - ingestion - INFO - PROCESSING_STARTED: data\source\academic_calendar.json
+2025-12-06 12:49:14,625 - ingestion - ERROR - PROCESSING_FAILED: data\source\academic_calendar.json | Error: Failed to extract text from data\source\academic_calendar.json: Unsupported file type: .json
+2025-12-06 12:49:14,626 - ingestion - INFO - PROCESSING_STARTED: data\source\hostel_guidelines.json
+2025-12-06 12:49:14,626 - ingestion - ERROR - PROCESSING_FAILED: data\source\hostel_guidelines.json | Error: Failed to extract text from data\source\hostel_guidelines.json: Unsupported file type: .json
+2025-12-06 12:49:14,626 - ingestion - INFO - PROCESSING_STARTED: data\source\international_student_guide.json
+2025-12-06 12:49:14,626 - ingestion - ERROR - PROCESSING_FAILED: data\source\international_student_guide.json | Error: Failed to extract text from data\source\international_student_guide.json: Unsupported file type: .json
+2025-12-06 12:49:14,626 - ingestion - INFO - PROCESSING_STARTED: data\source\lab_safety.json
+2025-12-06 12:49:14,626 - ingestion - ERROR - PROCESSING_FAILED: data\source\lab_safety.json | Error: Failed to extract text from data\source\lab_safety.json: Unsupported file type: .json
+2025-12-06 12:49:14,626 - ingestion - INFO - PROCESSING_STARTED: data\source\library_rules.json
+2025-12-06 12:49:14,626 - ingestion - ERROR - PROCESSING_FAILED: data\source\library_rules.json | Error: Failed to extract text from data\source\library_rules.json: Unsupported file type: .json
+2025-12-06 12:49:14,626 - ingestion - INFO - PROCESSING_STARTED: data\source\placement_guidelines.json
+2025-12-06 12:49:14,626 - ingestion - ERROR - PROCESSING_FAILED: data\source\placement_guidelines.json | Error: Failed to extract text from data\source\placement_guidelines.json: Unsupported file type: .json
+2025-12-06 12:49:14,626 - ingestion - INFO - PROCESSING_STARTED: data\source\program_structures.json
+2025-12-06 12:49:14,627 - ingestion - ERROR - PROCESSING_FAILED: data\source\program_structures.json | Error: Failed to extract text from data\source\program_structures.json: Unsupported file type: .json
+2025-12-06 12:49:14,627 - ingestion - INFO - PROCESSING_STARTED: data\source\student_handbook.json
+2025-12-06 12:49:14,627 - ingestion - ERROR - PROCESSING_FAILED: data\source\student_handbook.json | Error: Failed to extract text from data\source\student_handbook.json: Unsupported file type: .json
+2025-12-06 12:49:14,627 - ingestion - INFO - PROCESSING_STARTED: data\source\courses.csv
+2025-12-06 12:49:14,627 - ingestion - ERROR - PROCESSING_FAILED: data\source\courses.csv | Error: Failed to extract text from data\source\courses.csv: Unsupported file type: .csv
+2025-12-06 12:49:14,627 - ingestion - INFO - PROCESSING_STARTED: data\source\fees.csv
+2025-12-06 12:49:14,627 - ingestion - ERROR - PROCESSING_FAILED: data\source\fees.csv | Error: Failed to extract text from data\source\fees.csv: Unsupported file type: .csv
+2025-12-06 12:49:14,628 - ingestion - INFO - INGESTION_SUMMARY | Files processed: 11 | Files failed: 0 | Total chunks: 0 | Duration: 0.00s
+2025-12-06 13:41:24,728 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 698
+2025-12-06 13:41:24,807 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 698
+2025-12-06 14:26:54,977 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 698
+2025-12-06 14:26:55,074 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 698
+2025-12-06 14:29:07,992 - ingestion - INFO - FILE_DETECTED: ./data\academic_support.json
+2025-12-06 14:29:08,994 - ingestion - INFO - PROCESSING_STARTED: ./data\academic_support.json
+2025-12-06 14:29:08,994 - ingestion - ERROR - PROCESSING_FAILED: ./data\academic_support.json | Error: Failed to extract text from ./data\academic_support.json: Unsupported file type: .json
+2025-12-06 16:02:39,867 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 698
+2025-12-06 16:02:39,967 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 698
+2025-12-06 16:04:18,869 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 698
+2025-12-06 16:04:18,963 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 698
+2025-12-06 23:05:12,393 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 698
+2025-12-06 23:05:12,491 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 698
+2025-12-06 23:07:52,494 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 698
+2025-12-06 23:07:52,590 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 698
+2025-12-06 23:09:35,244 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 698
+2025-12-06 23:09:35,348 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 698
+2025-12-07 00:01:24,506 - ingestion - INFO - FILE_DETECTED: ./data\academic_support.json
+2025-12-07 00:01:25,509 - ingestion - INFO - PROCESSING_STARTED: ./data\academic_support.json
+2025-12-07 00:01:25,510 - ingestion - ERROR - PROCESSING_FAILED: ./data\academic_support.json | Error: Failed to extract text from ./data\academic_support.json: Unsupported file type: .json
+2025-12-07 01:21:31,130 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 314
+2025-12-07 01:21:31,230 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 314
+2025-12-07 01:28:52,495 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 314
+2025-12-07 01:28:52,602 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 314
+2025-12-07 01:35:49,543 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 314
+2025-12-07 01:35:49,662 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 314
+2025-12-07 02:31:57,954 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 314
+2025-12-07 02:31:58,068 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 314
+2025-12-07 02:35:15,168 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 314
+2025-12-07 02:35:15,281 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 314
+2025-12-07 03:01:05,631 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 03:01:05,769 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 03:03:54,662 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 03:03:54,805 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 08:58:40,813 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 08:58:40,951 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 10:09:21,480 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 10:09:21,633 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 10:11:44,018 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 10:11:44,172 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 10:13:30,196 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 10:13:30,358 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 10:31:19,540 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 10:31:19,702 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 10:32:31,975 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 10:32:32,130 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 11:08:17,269 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 11:08:17,445 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 11:20:42,270 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 11:20:42,425 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 11:27:27,006 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 11:27:27,168 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 11:32:52,870 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 11:32:53,055 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 11:36:46,799 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 11:36:46,984 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 11:37:27,585 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 11:37:27,765 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 11:53:26,728 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 11:53:26,936 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 12:00:23,658 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 12:00:23,867 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 12:04:40,306 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 12:04:40,509 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 12:06:16,207 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 12:06:16,396 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 12:57:36,118 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 12:57:36,329 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 13:02:43,891 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 13:02:44,120 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 15:36:12,840 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 15:36:13,079 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 15:37:05,464 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 15:37:05,696 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 15:37:48,601 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 15:37:48,873 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 15:38:38,470 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 15:38:38,700 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 15:39:46,368 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 15:39:46,604 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 15:43:06,049 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 15:43:06,308 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 15:47:14,735 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 15:47:14,978 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 15:47:57,477 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 22
+2025-12-07 15:47:57,692 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 22
+2025-12-07 15:48:53,903 - ingestion - INFO - PROCESSING_STARTED: data\source\academic_calendar.txt
+2025-12-07 15:48:53,903 - ingestion - ERROR - PROCESSING_FAILED: data\source\academic_calendar.txt | Error: Failed to extract text from data\source\academic_calendar.txt: Error loading data\source\academic_calendar.txt
+2025-12-07 15:48:53,903 - ingestion - INFO - PROCESSING_STARTED: data\source\academic_support.txt
+2025-12-07 15:48:53,904 - ingestion - ERROR - PROCESSING_FAILED: data\source\academic_support.txt | Error: Failed to extract text from data\source\academic_support.txt: Error loading data\source\academic_support.txt
+2025-12-07 15:48:53,904 - ingestion - INFO - PROCESSING_STARTED: data\source\courses.txt
+2025-12-07 15:48:53,999 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 3
+2025-12-07 15:48:54,001 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 3
+2025-12-07 15:48:54,008 - ingestion - INFO - CACHE_INVALIDATED: RAG
+2025-12-07 15:48:54,008 - ingestion - INFO - PROCESSING_COMPLETED: data\source\courses.txt | Chunks: 3 | Duration: 0.10s
+2025-12-07 15:48:54,008 - ingestion - INFO - PROCESSING_STARTED: data\source\fees.txt
+2025-12-07 15:48:54,008 - ingestion - ERROR - PROCESSING_FAILED: data\source\fees.txt | Error: Failed to extract text from data\source\fees.txt: Error loading data\source\fees.txt
+2025-12-07 15:48:54,008 - ingestion - INFO - PROCESSING_STARTED: data\source\hostel_guidelines.txt
+2025-12-07 15:48:54,008 - ingestion - ERROR - PROCESSING_FAILED: data\source\hostel_guidelines.txt | Error: Failed to extract text from data\source\hostel_guidelines.txt: Error loading data\source\hostel_guidelines.txt
+2025-12-07 15:48:54,009 - ingestion - INFO - PROCESSING_STARTED: data\source\international_student_guide.txt
+2025-12-07 15:48:54,009 - ingestion - ERROR - PROCESSING_FAILED: data\source\international_student_guide.txt | Error: Failed to extract text from data\source\international_student_guide.txt: Error loading data\source\international_student_guide.txt
+2025-12-07 15:48:54,009 - ingestion - INFO - PROCESSING_STARTED: data\source\lab_safety.txt
+2025-12-07 15:48:54,009 - ingestion - ERROR - PROCESSING_FAILED: data\source\lab_safety.txt | Error: Failed to extract text from data\source\lab_safety.txt: Error loading data\source\lab_safety.txt
+2025-12-07 15:48:54,009 - ingestion - INFO - PROCESSING_STARTED: data\source\library_rules.txt
+2025-12-07 15:48:54,009 - ingestion - ERROR - PROCESSING_FAILED: data\source\library_rules.txt | Error: Failed to extract text from data\source\library_rules.txt: Error loading data\source\library_rules.txt
+2025-12-07 15:48:54,009 - ingestion - INFO - PROCESSING_STARTED: data\source\placement_guidelines.txt
+2025-12-07 15:48:54,009 - ingestion - ERROR - PROCESSING_FAILED: data\source\placement_guidelines.txt | Error: Failed to extract text from data\source\placement_guidelines.txt: Error loading data\source\placement_guidelines.txt
+2025-12-07 15:48:54,010 - ingestion - INFO - PROCESSING_STARTED: data\source\program_structures.txt
+2025-12-07 15:48:54,090 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 3
+2025-12-07 15:48:54,091 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 3
+2025-12-07 15:48:54,095 - ingestion - INFO - CACHE_INVALIDATED: RAG
+2025-12-07 15:48:54,095 - ingestion - INFO - PROCESSING_COMPLETED: data\source\program_structures.txt | Chunks: 3 | Duration: 0.09s
+2025-12-07 15:48:54,095 - ingestion - INFO - PROCESSING_STARTED: data\source\student_handbook.txt
+2025-12-07 15:48:54,096 - ingestion - ERROR - PROCESSING_FAILED: data\source\student_handbook.txt | Error: Failed to extract text from data\source\student_handbook.txt: Error loading data\source\student_handbook.txt
+2025-12-07 15:48:54,096 - ingestion - INFO - INGESTION_SUMMARY | Files processed: 11 | Files failed: 0 | Total chunks: 0 | Duration: 0.19s
+2025-12-07 15:49:23,875 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 28
+2025-12-07 15:49:23,882 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 28
+2025-12-07 15:50:02,125 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 28
+2025-12-07 15:50:02,135 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 28
+2025-12-07 15:53:37,741 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 28
+2025-12-07 15:53:37,753 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 28
+2025-12-07 15:54:45,687 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 28
+2025-12-07 15:54:45,702 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 28
+2025-12-07 15:56:21,832 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 28
+2025-12-07 15:56:21,849 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 28
+2025-12-07 16:05:00,614 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 28
+2025-12-07 16:05:00,638 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 28
+2025-12-07 16:07:24,966 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 28
+2025-12-07 16:07:24,989 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 28
+2025-12-08 10:35:03,794 - ingestion - INFO - INDEX_UPDATED: FAISS | Vectors added: 28
+2025-12-08 10:35:03,822 - ingestion - INFO - INDEX_UPDATED: BM25 | Vectors added: 28

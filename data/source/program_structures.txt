@@ -1,0 +1,236 @@
+🎓 B.TECH PROGRAM STRUCTURES
+B.Tech in Computer Science & Engineering (CSE)
+
+The BTech CSE program is 4 years long and consists of 8 semesters.
+Each semester has a defined set of courses.
+
+Semester 1 Courses:
+
+CS100, CS101, CS102, CS110, CS111
+
+Semester 2 Courses:
+
+CS120, CS121, CS122, CS130, CS131
+
+Semester 3 Courses:
+
+CS200, CS201, CS202, CS210, CS211
+
+Semester 4 Courses:
+
+CS220, CS221, CS222, CS230, CS231
+
+Semester 5 Courses:
+
+CS300, CS301, CS302, CS310, CS311
+
+Semester 6 Courses:
+
+CS320, CS321, CS322, CS330, CS331
+
+Semester 7 Courses:
+
+CS400, CS401, CS402, CS410, CS411
+
+Semester 8 Courses:
+
+CS410, CS411, CS412, CS401, CS402
+(Internship + Capstone + Electives)
+
+Electives Available:
+
+CS401, CS402, CS412, CS311, CS331
+
+Elective Rule:
+
+Students must select at least 2 electives from the elective pool between semesters 6–8.
+
+Graduation Requirements:
+
+Minimum 160 credits, successful completion of Capstone Project (CS400/CS411) and required internship documentation.
+
+B.Tech in Information Technology (IT)
+
+The IT program also spans 8 semesters and includes core IT, software, and networking subjects.
+
+Semesters 1–8 Course Mapping:
+
+Sem 1: IT200, IT201, IT202, IT210, IT211
+Sem 2: IT220, IT221, IT222, IT230, IT231
+Sem 3: IT300, IT301, IT302, IT310, IT311
+Sem 4: IT320, IT321, IT322, IT330, IT331
+Sem 5: IT321, IT322, IT330, IT300, IT311
+Sem 6: IT321, IT331, IT322, IT401, IT402
+Sem 7: IT400, IT401, IT402, IT410, IT331
+Sem 8: IT410, IT402, IT401, IT400, IT331
+
+Elective Pool:
+
+IT401, IT402, IT331, IT320, IT330
+
+Elective Rule:
+
+At least 2 electives must be selected from semesters 6–8.
+Internship (IT402) is mandatory unless substituted by a major project.
+
+Graduation Requirement:
+
+Minimum 160 credits, capstone completion, and internship or industry project.
+
+B.Tech in Artificial Intelligence & Data Science (AI-DS)
+
+This program is structured around AI, ML, data engineering, and deep learning.
+
+Semesters 1–8 Course Mapping:
+
+Sem 1: AD300, AD301, AD302, AD310, AD311
+Sem 2: AD320, AD321, AD322, AD330, AD331
+Sem 3: AD400, AD401, AD402, AD410, AD411
+Sem 4: AD420, AD421, AD422, AD432, AD400
+Sem 5: AD410, AD411, AD420, AD401, AD402
+Sem 6: AD421, AD430, AD422, AD432, AD400
+Sem 7: AD430, AD431, AD430, AD431, AD400
+Sem 8: AD431, AD430, AD421, AD422, AD432
+
+Elective Pool:
+
+AD401, AD402, AD422, AD432, AD421
+
+Rules:
+
+At least 2 electives must be taken from semesters 6–8.
+Capstone Data Science Project (AD430/AD431) is compulsory.
+
+Graduation Requirement:
+
+Minimum 160 credits, submission of a full DS capstone report with reproducible results.
+
+B.Tech in Mechanical Engineering (ME)
+
+A traditional engineering program focused on mechanics, design, and manufacturing.
+
+Semester Course Mapping:
+
+Sem 1: ME400, ME401, ME402, ME410, ME411
+Sem 2: ME420, ME421, ME422, ME430, ME431
+Sem 3: ME432, ME440, ME441, ME450, ME451
+Sem 4: ME452, ME450, ME431, ME440, ME441
+Sem 5: ME450, ME451, ME452, ME460, ME431
+Sem 6: ME452, ME441, ME450, ME461, ME460
+Sem 7: ME460, ME461, ME452, ME431, ME450
+Sem 8: ME461, ME460, ME452, ME431, ME441
+
+Elective Pool:
+
+ME451, ME452, ME441, ME440, ME431
+
+Rules:
+
+2 electives required from semesters 6–8.
+Capstone Projects ME460 and ME461 are compulsory.
+
+Graduation Requirement:
+
+Minimum 160 credits, capstone + workshop certification.
+
+B.Tech in Electronics & Communication Engineering (ECE)
+Semester Course Mapping:
+
+Sem 1: EC500, EC501, EC502, EC510, EC511
+Sem 2: EC520, EC521, EC522, EC530, EC531
+Sem 3: EC540, EC541, EC542, EC550, EC551
+Sem 4: EC560, EC561, EC570, EC541, EC542
+Sem 5: EC560, EC561, EC542, EC530, EC550
+Sem 6: EC550, EC551, EC560, EC561, EC570
+Sem 7: EC570, EC571, EC560, EC561, EC542
+Sem 8: EC571, EC570, EC560, EC561, EC542
+
+Electives:
+
+EC542, EC560, EC561, EC541, EC550
+
+Rules:
+
+Minimum 2 electives in semesters 6–8.
+Capstone EC570 & EC571 mandatory.
+
+🎓 M.TECH PROGRAM STRUCTURES
+M.Tech in Computer Science (MTech CS)
+
+Duration: 2 years, 4 semesters.
+
+Semester-wise Courses:
+
+Sem 1: MCS600, MCS601, MCS602, MCS603, MCS604
+Sem 2: MCS610, MCS611, MCS612, MCS613, MCS614
+Sem 3: MCS620, MCS621, MCS622, MCS623, MCS624
+Sem 4: MCS630, MCS631, MCS624, MCS620, MCS630
+
+Elective Pool:
+
+MCS610, MCS611, MCS612, MCS623, MCS621
+
+Rules:
+
+Take ≥2 electives.
+Thesis Proposal (MCS624) and Thesis Project (MCS630) are mandatory.
+
+Graduation Requirement:
+
+90 credits + thesis defense.
+
+M.Tech in Data Science (MTech DS)
+Semesters:
+
+Sem 1: MDS620–MDS624
+Sem 2: MDS630–MDS634
+Sem 3: MDS640, MDS641, MDS624, MDS630, MDS631
+Sem 4: MDS641, MDS640, MDS632, MDS633, MDS634
+
+Rules:
+
+At least 2 electives.
+Mandatory DS thesis/project.
+
+M.Tech in VLSI & Embedded Systems (MTech VLSI)
+
+Semester distribution includes MVL640–MVL661.
+Project sequence MVL660 and MVL661 is mandatory.
+
+M.Tech in Mechanical Design (MTech MD)
+
+Semester distribution includes MMD660–MMD675.
+Design Project I (MMD674) and Project II (MMD675) mandatory.
+
+🎓 PHD PROGRAMS
+PhD – Computer Science
+Coursework:
+
+Sem 1: PH700, PH701, PH702, PH703
+Sem 2: PH725, PH726, PH722, PH724
+
+Thesis Sequence:
+
+PH728 → PH729
+
+Rules:
+
+At least 2 electives; proposal and thesis defense required.
+
+PhD – Management
+
+Coursework: PH710, PH711, PH712 → Sem 2 courses
+Thesis sequence PH728, PH729 mandatory.
+
+PhD – Engineering (Interdisciplinary)
+
+Coursework: PH720, PH721, PH700 → PH722, PH723, PH724
+Thesis: PH728, PH729.
+
+🎓 GENERAL RULES FOR ALL PROGRAMS
+
+Electives must be chosen from elective pools; cross-department electives require coordinator approval.
+
+Minimum passing grades as per university policy.
+
+Graduation requires full credits and completion of compulsory components like capstone, internship, or thesis.

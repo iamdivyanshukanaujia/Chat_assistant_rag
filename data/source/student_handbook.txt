@@ -1,0 +1,315 @@
+Academic Year: 2025–2026
+This handbook outlines academic rules, attendance requirements, exam regulations, conduct expectations, digital behavior, anti-ragging laws, disciplinary actions, and student support policies.
+
+🎓 ATTENDANCE POLICY
+
+Minimum attendance requirement: 75% in each course.
+
+Attendance shortage rules:
+
+65% to 75%: Allowed only with medical certificate or approved leave.
+
+Below 65%: Student is not allowed to appear in exams under any circumstances.
+
+Medical leave procedure:
+
+Submit a medical certificate within 7 days of returning to campus.
+
+Upload through the Academic Portal.
+
+Approval from academic committee required.
+
+Attendance notes:
+
+Lab and theory attendance are calculated separately.
+
+Students entering more than 10 minutes late are marked absent.
+
+Attendance is updated weekly.
+
+📝 GRADING SYSTEM
+Grade Scale
+
+O: Outstanding (90–100)
+
+A+: Excellent (80–89)
+
+A: Very Good (70–79)
+
+B+: Good (60–69)
+
+B: Above Average (50–59)
+
+C: Average (40–49)
+
+F: Fail (<40)
+
+I: Incomplete
+
+W: Withdrawn
+
+SGPA / CGPA Rules
+
+SGPA = Σ(Credit × GradePoint) / Σ(Credits)
+
+CGPA = Weighted average of all SGPAs.
+
+Improvement policy: Only F-grade students can repeat a course.
+
+🧾 EXAM RULES AND REGULATIONS
+
+University ID card is mandatory during exams.
+
+Allowed items: pens, pencils, erasers, transparent bottle, non-programmable calculator.
+
+Prohibited items: mobile phones, smart watches, Bluetooth devices, unauthorized notes.
+
+Late entry rules:
+
+Up to 15 minutes: entry allowed.
+
+After 15 minutes: not permitted.
+
+Malpractice policy:
+
+First offense → Semester suspension + zero marks.
+
+Repeat offense → Permanent debarment.
+
+Answer Sheet Rules
+
+Rough work only on last pages.
+
+Do not tear pages.
+
+Write ID clearly on top.
+
+Exam Revaluation
+
+Window: 14 days after results.
+
+Fee: ₹1000 per subject.
+
+Marks can increase, decrease, or remain same.
+
+📚 ACADEMIC INTEGRITY
+Plagiarism Policy
+
+Allowed similarity: Below 15%.
+
+Tools used: Turnitin, URKUND.
+
+Actions:
+
+15–30% → Rewrite with penalty.
+
+30% → Zero marks + disciplinary notice.
+
+Repeated cases → Semester suspension.
+
+Collaboration Rules
+
+Group assignments: only within assigned groups.
+
+Individual work must not be shared.
+
+AI-generated content must be cited.
+
+🧑‍⚖️ CONDUCT RULES
+General Code of Conduct
+
+Maintain discipline.
+
+No disruptive behavior in class.
+
+Respect faculty, staff, and students.
+
+Abusive language is prohibited.
+
+Dress Code
+
+Regular days: Smart casuals recommended.
+
+Lab days: Shoes and lab coat mandatory.
+
+Formal events: Formal attire required.
+
+Classroom Rules
+
+Phones on silent.
+
+Recording requires permission.
+
+Eating in class is not allowed.
+
+🚫 ANTI-RAGGING POLICY
+
+Zero-tolerance as per UGC Act.
+
+Examples of ragging include verbal abuse, humiliation, forcing acts, isolation, bullying, social media harassment.
+
+Punishments:
+
+Minor offenses → 1–2 semester suspension.
+
+Major offenses → Expulsion + police action.
+
+Fine: ₹10,000 to ₹1,00,000.
+
+Helpline numbers:
+
+1800-111-656
+
++91-9001122233
+
+📝 LEAVE RULES
+Types of Leave
+
+Casual leave: Max 5 days per semester.
+
+Medical leave: Allowed with documentation.
+
+Emergency leave: Department approval required.
+
+Hostel outing leave: Warden approval mandatory.
+
+Leave Procedure
+
+Submit request on student portal.
+
+Attach required documents.
+
+Department approves.
+
+Attendance updated after processing.
+
+📘 LIBRARY RULES (Handbook Summary)
+
+Borrow limits:
+
+BTech: 4 books
+
+MTech: 5 books
+
+PhD: 8 books
+
+Allowed duration:
+
+BTech: 14 days
+
+MTech: 21 days
+
+PhD: 30 days
+
+Late fees: ₹10 per day.
+
+Rules: maintain silence, keep belongings outside, damaged books must be replaced.
+
+🆔 ID CARD RULES
+
+ID card required for:
+
+Academic building entry
+
+Exams
+
+Hostel entry
+
+Library access
+
+Loss procedure:
+
+Report to office
+
+Submit replacement form
+
+Pay ₹500 replacement fee
+
+🌐 DIGITAL CONDUCT & INTERNET POLICY
+Internet Usage
+
+Illegal downloads prohibited.
+
+Do not access restricted servers.
+
+Do not share university credentials.
+
+Online Class Rules
+
+Camera ON unless allowed otherwise.
+
+Join with proper name & ID.
+
+Recording requires permission.
+
+❤️ STUDENT SUPPORT SERVICES
+Counseling Center
+
+Location: Student Wellness Block, Room 102
+
+Hours: 10 AM – 5 PM
+
+Contact: +91-9003344556
+
+Career Center
+
+Resume building
+
+Mock interviews
+
+Internship help
+
+Grievance Redressal
+
+Portal: https://university.edu/grievance
+
+Email: grievance@university.edu
+
+Typical response: 7 days
+
+🌍 INTERNATIONAL STUDENT POLICIES
+
+Visa requirements: FRRO registration within 14 days.
+
+Passport validity ≥ 6 months.
+
+Respect cultural norms and consult International Office for help.
+
+International Office Contact: +91-9005566778
+
+Email: international.office@university.edu
+
+⚖️ DISCIPLINARY ACTIONS
+Minor Violations
+
+Attendance shortage
+
+Improper dress code
+
+Disruptive behavior
+
+Major Violations
+
+Academic malpractice
+
+Ragging
+
+Property damage
+
+Cyber misconduct
+
+Penalties
+
+Warning
+
+Fines: ₹500 – ₹5000
+
+Suspension (up to 1 semester)
+
+Expulsion (severe cases)
+
+📌 METADATA
+
+Updated on: 2025-12-05
+Timezone: Asia/Kolkata
+Source: Synthetic dataset for Student Information RAG System.

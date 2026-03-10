@@ -1,0 +1,259 @@
+📚 CENTRAL LEARNING RESOURCE CENTRE (CLRC) — LIBRARY RULES & INFORMATION
+
+Academic Year: 2025–2026
+Mission: To support students and researchers with academic resources, digital collections, and research tools.
+
+🕒 LIBRARY TIMINGS
+Regular Days (Mon–Sat)
+
+9:00 AM – 9:00 PM
+
+Examination Period
+
+8:00 AM – 11:00 PM (extended hours)
+
+Sundays
+
+10:00 AM – 5:00 PM
+(Only study rooms are open on Sundays.)
+
+Holidays (Closed)
+
+Independence Day
+
+Gandhi Jayanti
+
+Republic Day
+
+Diwali
+
+Holi
+
+📖 BORROWING RULES & LIMITS
+Book Borrowing Limits
+Student Type	Books Allowed	Loan Period
+B.Tech	4 books	14 days
+M.Tech	5 books	21 days
+MBA	5 books	21 days
+PhD	8 books	30 days
+International Students	6 books	21 days
+Renewal Policy
+
+A book may be renewed twice, unless:
+
+It is reserved by another user
+
+It is overdue
+
+The student has unpaid fines
+
+Late Fees
+
+₹10 per day per book
+
+Reference book fine: ₹50 per day
+
+No grace period
+
+Maximum fine limit: ₹2000
+
+📕 ISSUING & RETURN POLICIES
+Required Document
+
+Valid University ID card
+
+Issue Counter Rules
+
+Books must be checked out from the issue/return desk.
+
+Students may not issue books on behalf of others.
+
+Reference books and journals cannot be borrowed.
+
+Return Rules
+
+Books must be returned on or before the due date.
+
+Damaged books must be reported immediately.
+
+A book drop box is available for after-hours returns.
+
+📚 BOOK TYPES & RESTRICTIONS
+Issuable Items
+
+Textbooks
+
+General category books
+
+Limited novels
+
+Non-Issuable Items
+
+Reference books
+
+Magazines
+
+Research journals
+
+Rare books
+
+Short-Term Loan Items
+
+Course reserve books
+
+Lab manuals
+
+Loan period: 4 hours only
+
+📘 LOST OR DAMAGED BOOKS
+
+If you lose or damage a library book:
+
+You must pay the replacement cost + processing fee.
+
+If the book is out of print, you must pay:
+Current market price + 20% penalty
+
+Poor-quality replacement copies may be rejected.
+
+Processing fee: ₹300
+
+🧑‍🤝‍🧑 STUDY ROOM RULES
+
+Booking required
+
+Maximum booking: 2 hours per day
+
+Only one booking per student per day
+
+Study Room Conduct
+
+No food allowed
+
+Maintain silence
+
+Do not move equipment or furniture
+
+Leave the room clean after use
+
+🌐 DIGITAL LIBRARY ACCESS
+Available E-Resources
+
+Students have access to:
+
+IEEE Xplore
+
+SpringerLink
+
+Elsevier ScienceDirect
+
+ACM Digital Library
+
+JSTOR
+
+NPTEL & SWAYAM
+
+Access Rules
+
+Use resources strictly for academic purposes
+
+Do not share downloaded papers externally
+
+Off-campus access allowed via VPN
+
+Login Requirement
+
+Use university SSO login credentials
+
+🖨️ PRINTING & SCANNING FACILITIES
+Charges
+
+Black & white printing: ₹2 per page
+
+Color printing: ₹10 per page
+
+Scanning: ₹1 per page
+
+Printing Rules
+
+Students must bring their own USB drive
+
+Large print jobs must be requested one day in advance
+
+📌 CODE OF CONDUCT IN LIBRARY
+Students Must:
+
+Maintain silence at all times
+
+Keep mobile phones on silent
+
+Take phone calls outside the library
+
+Handle books and furniture carefully
+
+Avoid reserving seats by leaving bags or books
+
+Violations & Penalties
+
+Noise violations → warning → temporary suspension
+
+Mishandling books → fines
+
+Misuse of digital resources → access revocation + disciplinary action
+
+🎓 SPECIAL FACILITIES
+For PhD Scholars
+
+Extended loan periods
+
+Access to dedicated PhD study cabins
+
+Priority access to research journals
+
+For Divyang (Differently-abled) Students
+
+Assisted reading services
+
+Accessible workstations
+
+Extended borrowing privileges
+
+🪪 MEMBERSHIP RULES
+
+All enrolled students automatically become library members
+
+External membership is not allowed
+
+Only full-time students, researchers, and faculty have access privileges
+
+🛡️ SECURITY & SAFETY POLICIES
+
+Bags must be stored in designated racks
+
+Library has 24/7 CCTV surveillance
+
+Anti-theft measures include:
+
+RFID book monitoring
+
+Gate sensor alarms
+
+Random security checks
+
+☎️ CONTACT INFORMATION
+
+Library Helpdesk: +91-9001112234
+
+Email: library@university.edu
+
+Location: Central Learning Resource Centre, Academic Block A
+
+Librarian: Dr. Rekha Sharma
+
+📌 Metadata
+
+Updated on: 5 December 2025
+
+Timezone: Asia/Kolkata
+
+Source: Synthetic dataset for University RAG Assistant

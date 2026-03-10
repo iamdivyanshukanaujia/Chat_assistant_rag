@@ -1,0 +1,42 @@
+======================================================================
+LATENCY BENCHMARK REPORT
+======================================================================
+
+FULL PIPELINE:
+----------------------------------------------------------------------
+Query: What is the minimum attendance requirement?
+Iterations: 0
+Mean:       0.00 ms
+Median:     0.00 ms
+Min:        0.00 ms
+Max:        0.00 ms
+P95:        0.00 ms
+P99:        0.00 ms
+Std Dev:    0.00 ms
+Status:     EXCELLENT
+
+RETRIEVAL:
+----------------------------------------------------------------------
+Query: What is the minimum attendance requirement?
+Iterations: 50
+Mean:       45.37 ms
+Median:     38.46 ms
+Min:        33.60 ms
+Max:        121.05 ms
+P95:        114.24 ms
+P99:        121.05 ms
+Std Dev:    20.67 ms
+Status:     EXCELLENT
+
+LLM GENERATION:
+----------------------------------------------------------------------
+Iterations: 20
+Mean:       506.46 ms
+Median:     492.66 ms
+Min:        455.78 ms
+Max:        616.70 ms
+P95:        616.70 ms
+P99:        616.70 ms
+Std Dev:    39.82 ms
+Status:     EXCELLENT
+======================================================================

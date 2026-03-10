@@ -1,0 +1,202 @@
+[
+    {
+        "id": "adm_001",
+        "category": "admissions",
+        "query": "What are the admission requirements for the Computer Science undergraduate program?",
+        "ground_truth_answer": "The Computer Science undergraduate program requires a high school diploma with strong mathematics background (Calculus and Statistics preferred), minimum GPA of 3.5, SAT score of 1400+ or ACT of 30+, and two letters of recommendation. International students must submit TOEFL (minimum 100) or IELTS (minimum 7.0) scores.",
+        "relevant_doc_ids": [
+            "cs_admission_requirements",
+            "undergraduate_admissions_policy"
+        ]
+    },
+    {
+        "id": "adm_002",
+        "category": "admissions",
+        "query": "What is the application deadline for fall semester admission?",
+        "ground_truth_answer": "The application deadline for fall semester admission is January 15th for regular decision and November 1st for early action. International students are encouraged to apply by December 1st to allow time for visa processing.",
+        "relevant_doc_ids": [
+            "admissions_deadlines",
+            "academic_calendar"
+        ]
+    },
+    {
+        "id": "adm_003",
+        "category": "admissions",
+        "query": "Do international students need to submit additional documents?",
+        "ground_truth_answer": "Yes, international students must submit English proficiency test scores (TOEFL or IELTS), financial documentation proving ability to cover tuition and living expenses, passport copy, and transcript evaluations from WES or equivalent credential evaluation services.",
+        "relevant_doc_ids": [
+            "international_admissions",
+            "required_documents"
+        ]
+    },
+    {
+        "id": "adm_004",
+        "category": "admissions",
+        "query": "Is there a separate application fee for graduate programs?",
+        "ground_truth_answer": "Yes, the graduate program application fee is $75 for domestic applicants and $90 for international applicants. Fee waivers are available for students demonstrating financial need.",
+        "relevant_doc_ids": [
+            "graduate_admissions",
+            "application_fees"
+        ]
+    },
+    {
+        "id": "adm_005",
+        "category": "admissions",
+        "query": "Can I defer my admission to a later semester?",
+        "ground_truth_answer": "Yes, admitted students can request admission deferral for up to one year. Deferral requests must be submitted in writing to the admissions office within 30 days of receiving the acceptance letter and are subject to approval.",
+        "relevant_doc_ids": [
+            "admissions_policies",
+            "deferral_policy"
+        ]
+    },
+    {
+        "id": "acad_001",
+        "category": "academics",
+        "query": "How many credits are required to graduate with a Bachelor's degree?",
+        "ground_truth_answer": "Students must complete 120 credit hours to graduate with a Bachelor's degree, including general education requirements (30 credits), major requirements (60 credits), and electives (30 credits). A minimum GPA of 2.0 is required for graduation.",
+        "relevant_doc_ids": [
+            "graduation_requirements",
+            "degree_requirements"
+        ]
+    },
+    {
+        "id": "acad_002",
+        "category": "academics",
+        "query": "What are the prerequisites for Data Structures and Algorithms course?",
+        "ground_truth_answer": "The prerequisites for Data Structures and Algorithms (CS 201) are Introduction to Programming (CS 101) with a grade of C or better, and Discrete Mathematics (MATH 220). Students must have completed both prerequisites before enrolling.",
+        "relevant_doc_ids": [
+            "cs_course_catalog",
+            "course_prerequisites"
+        ]
+    },
+    {
+        "id": "acad_003",
+        "category": "academics",
+        "query": "Can I take courses pass/fail instead of for a letter grade?",
+        "ground_truth_answer": "Yes, students can take up to 12 credits of elective courses on a pass/fail basis. Major requirements and general education courses must be taken for a letter grade. The pass/fail option must be declared before the add/drop deadline.",
+        "relevant_doc_ids": [
+            "grading_policies",
+            "pass_fail_policy"
+        ]
+    },
+    {
+        "id": "acad_004",
+        "category": "academics",
+        "query": "What is the maximum course load per semester?",
+        "ground_truth_answer": "The standard full-time course load is 12-18 credits per semester. Students wishing to take more than 18 credits must petition the academic dean and maintain a minimum GPA of 3.5. Part-time students typically take 6-11 credits.",
+        "relevant_doc_ids": [
+            "course_load_policies",
+            "registration_guidelines"
+        ]
+    },
+    {
+        "id": "acad_005",
+        "category": "academics",
+        "query": "Is there a study abroad program for CS students?",
+        "ground_truth_answer": "Yes, Computer Science students can participate in study abroad programs at partner universities in Europe, Asia, and Australia. Students can transfer up to 15 credits from approved programs. Application deadline for fall programs is February 1st.",
+        "relevant_doc_ids": [
+            "study_abroad_programs",
+            "cs_international_opportunities"
+        ]
+    },
+    {
+        "id": "campus_001",
+        "category": "campus_life",
+        "query": "What housing options are available for freshmen students?",
+        "ground_truth_answer": "Freshmen students are required to live on campus and can choose from traditional residence halls with double or triple rooms, or suite-style living with shared common areas. All residence halls include meal plans, WiFi, study lounges, and laundry facilities.",
+        "relevant_doc_ids": [
+            "housing_options",
+            "residential_life"
+        ]
+    },
+    {
+        "id": "campus_002",
+        "category": "campus_life",
+        "query": "Are there computer labs available for student use?",
+        "ground_truth_answer": "Yes, the university has multiple computer labs across campus open 24/7 during the semester. The main CS lab in the Engineering building has 100+ workstations with specialized software for programming, design, and data analysis. Students also have access to high-performance computing clusters.",
+        "relevant_doc_ids": [
+            "computer_labs",
+            "student_facilities"
+        ]
+    },
+    {
+        "id": "campus_003",
+        "category": "campus_life",
+        "query": "What student clubs and organizations are available?",
+        "ground_truth_answer": "The university has over 200 student clubs including the Computer Science Student Association, ACM chapter, hackathon club, gaming club, cultural organizations, sports clubs, and volunteer groups. New students can join clubs during the activities fair at the beginning of each semester.",
+        "relevant_doc_ids": [
+            "student_organizations",
+            "campus_activities"
+        ]
+    },
+    {
+        "id": "campus_004",
+        "category": "campus_life",
+        "query": "Is there a gym or fitness center on campus?",
+        "ground_truth_answer": "Yes, the University Recreation Center offers a 50,000 sq ft fitness facility with cardio equipment, weight training, group fitness classes, indoor track, swimming pool, and basketball courts. Access is included in student fees.",
+        "relevant_doc_ids": [
+            "recreation_center",
+            "campus_facilities"
+        ]
+    },
+    {
+        "id": "campus_005",
+        "category": "campus_life",
+        "query": "What dining options are available on campus?",
+        "ground_truth_answer": "The campus has four dining halls with various cuisines, including vegetarian and vegan options, along with cafes, food trucks, and convenience stores. Meal plans range from 10 meals per week to unlimited dining access.",
+        "relevant_doc_ids": [
+            "dining_services",
+            "meal_plans"
+        ]
+    },
+    {
+        "id": "policy_001",
+        "category": "policies",
+        "query": "What is the academic integrity policy regarding plagiarism?",
+        "ground_truth_answer": "Academic dishonesty including plagiarism, cheating, and unauthorized collaboration is strictly prohibited. First offense results in course failure and academic probation. Second offense leads to suspension or expulsion. All violations are reported to the Office of Student Conduct.",
+        "relevant_doc_ids": [
+            "academic_integrity_policy",
+            "student_code_of_conduct"
+        ]
+    },
+    {
+        "id": "policy_002",
+        "category": "policies",
+        "query": "What is the attendance policy for classes?",
+        "ground_truth_answer": "Attendance policies vary by instructor but generally students should attend at least 80% of classes. Missing more than 20% of classes may result in automatic failure. Medical absences must be documented and reported to the Dean of Students office within 48 hours.",
+        "relevant_doc_ids": [
+            "attendance_policy",
+            "academic_policies"
+        ]
+    },
+    {
+        "id": "policy_003",
+        "category": "policies",
+        "query": "How is the final grade calculated?",
+        "ground_truth_answer": "Final grades are typically calculated based on weighted components: assignments (30%), midterm exams (25%), final exam (35%), and participation (10%). Specific weights vary by course and are detailed in each course syllabus. The grading scale is A (90-100), B (80-89), C (70-79), D (60-69), F (below 60).",
+        "relevant_doc_ids": [
+            "grading_policies",
+            "grade_calculations"
+        ]
+    },
+    {
+        "id": "policy_004",
+        "category": "policies",
+        "query": "What is the policy for withdrawing from a course?",
+        "ground_truth_answer": "Students can drop courses without penalty during the first two weeks. After that, withdrawals are marked as 'W' on the transcript and do not affect GPA. The withdrawal deadline is 10 weeks into the semester. After the deadline, withdrawals are only granted for documented emergencies.",
+        "relevant_doc_ids": [
+            "withdrawal_policy",
+            "registration_policies"
+        ]
+    },
+    {
+        "id": "policy_005",
+        "category": "policies",
+        "query": "Can I submit assignments late?",
+        "ground_truth_answer": "Late submission policies vary by instructor. Typically, late assignments receive a 10% penalty per day late, up to a maximum of 3 days. After 3 days, assignments may not be accepted. Extensions may be granted for documented emergencies or accommodations.",
+        "relevant_doc_ids": [
+            "assignment_policies",
+            "late_submission_policy"
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+student_id,name,program,department,current_year,current_semester,cgpa,sgpa_current,total_credits,last_updated
+10843168,Shubham Yadav,BTech,Computer Science,3,5,7.2,7.5,120,2025-12-01
+10843201,Priya Sharma,BTech,Electronics,4,7,8.9,9.1,150,2025-12-01
+10843145,Rahul Kumar,MTech,Computer Science,2,3,8.3,8.4,40,2025-12-01
+10843189,Ananya Singh,BTech,Computer Science,2,3,9.1,9.3,60,2025-12-01
+10843212,John Smith,PhD,Artificial Intelligence,3,5,8.7,8.9,80,2025-12-01
+10843156,Amit Patel,BTech,Mechanical,4,7,6.8,6.5,145,2025-12-01
+10843178,Sara Ali,MTech,Data Science,1,1,8.5,8.5,20,2025-12-01
+10843193,Vikram Mehta,BTech,Computer Science,4,7,8.2,8.0,148,2025-12-01
+10843164,Neha Gupta,BTech,Civil,3,5,7.8,7.9,115,2025-12-01
+10843220,David Chen,PhD,Machine Learning,2,3,9.3,9.4,60,2025-12-01

@@ -1,0 +1,72 @@
+[
+    {
+        "query": "When does the fall semester start?",
+        "relevant_docs": [
+            "academic_calendar.json"
+        ],
+        "category": "academic_calendar"
+    },
+    {
+        "query": "How should I prepare for midterm exams?",
+        "relevant_docs": [
+            "academic_support.json"
+        ],
+        "category": "academic_support"
+    },
+    {
+        "query": "What is the hostel curfew time?",
+        "relevant_docs": [
+            "hostel_guidelines.json"
+        ],
+        "category": "hostel"
+    },
+    {
+        "query": "What is the minimum CGPA for BTech placement?",
+        "relevant_docs": [
+            "placement_guidelines.json"
+        ],
+        "category": "placement"
+    },
+    {
+        "query": "What documents do I need for visa application?",
+        "relevant_docs": [
+            "international_student_guide.json"
+        ],
+        "category": "international"
+    },
+    {
+        "query": "What safety equipment is mandatory in the chemistry lab?",
+        "relevant_docs": [
+            "lab_safety.json"
+        ],
+        "category": "safety"
+    },
+    {
+        "query": "How many books can I borrow from the library?",
+        "relevant_docs": [
+            "library_rules.json"
+        ],
+        "category": "library"
+    },
+    {
+        "query": "What courses are required for BTech Computer Science?",
+        "relevant_docs": [
+            "program_structures.json"
+        ],
+        "category": "academics"
+    },
+    {
+        "query": "What is the attendance requirement?",
+        "relevant_docs": [
+            "student_handbook.json"
+        ],
+        "category": "handbook"
+    },
+    {
+        "query": "When are mid-semester exams scheduled?",
+        "relevant_docs": [
+            "academic_calendar.json"
+        ],
+        "category": "academic_calendar"
+    }
+]

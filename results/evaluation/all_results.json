@@ -1,0 +1,63 @@
+{
+  "retrieval_metrics": {
+    "num_queries": 5,
+    "precision": {
+      "@1": 0.0,
+      "@3": 0.0,
+      "@5": 0.0,
+      "@10": 0.0
+    },
+    "recall": {
+      "@1": 0.0,
+      "@3": 0.0,
+      "@5": 0.0,
+      "@10": 0.0
+    },
+    "hit_rate": {
+      "@1": 0.0,
+      "@3": 0.0,
+      "@5": 0.0,
+      "@10": 0.0
+    },
+    "mrr": 0.0
+  },
+  "latency_benchmark": {
+    "full_pipeline": {
+      "mean": 0.0,
+      "median": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "p95": 0.0,
+      "p99": 0.0,
+      "std_dev": 0.0,
+      "iterations": 0,
+      "query": "What is the minimum attendance requirement?",
+      "component": "full_rag_pipeline"
+    },
+    "retrieval": {
+      "mean": 45.3690040204674,
+      "median": 38.457300048321486,
+      "min": 33.60150009393692,
+      "max": 121.04989984072745,
+      "p95": 114.23920001834631,
+      "p99": 121.04989984072745,
+      "std_dev": 20.67223203787264,
+      "iterations": 50,
+      "query": "What is the minimum attendance requirement?",
+      "component": "retrieval_only"
+    },
+    "llm_generation": {
+      "mean": 506.45882501266897,
+      "median": 492.6641499623656,
+      "min": 455.77989984303713,
+      "max": 616.7034001555294,
+      "p95": 616.7034001555294,
+      "p99": 616.7034001555294,
+      "std_dev": 39.81614546660658,
+      "iterations": 20,
+      "component": "llm_generation"
+    }
+  },
+  "response_quality": {},
+  "advising_quality": {}
+}

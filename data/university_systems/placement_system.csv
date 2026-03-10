@@ -1,0 +1,11 @@
+student_id,name,registered_for_placement,placement_status,resume_uploaded,mock_interviews_attended,companies_applied,offers_received,last_updated
+10843168,Shubham Yadav,No,Not Registered,No,0,0,0,2025-12-07
+10843201,Priya Sharma,Yes,Active,Yes,3,12,2,2025-12-07
+10843145,Rahul Kumar,Yes,Active,Yes,2,8,0,2025-12-07
+10843189,Ananya Singh,No,Not Eligible,No,0,0,0,2025-12-07
+10843212,John Smith,N/A,PhD Research,N/A,0,0,0,2025-12-07
+10843156,Amit Patel,Yes,Active,Yes,1,5,0,2025-12-07
+10843178,Sara Ali,No,Not Eligible,No,0,0,0,2025-12-07
+10843193,Vikram Mehta,Yes,Active,Yes,4,15,3,2025-12-07
+10843164,Neha Gupta,No,Not Registered,No,0,0,0,2025-12-07
+10843220,David Chen,N/A,PhD Research,N/A,0,0,0,2025-12-07

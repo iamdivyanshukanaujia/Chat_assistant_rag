@@ -1,0 +1,322 @@
+🎓 B.TECH – COMPUTER SCIENCE & ENGINEERING (CSE)
+Semester 1
+
+CS100 – Intro to Computational Thinking (4 credits)
+Department: CSE
+Prerequisites: None
+Description: Basics of algorithms, problem solving, and programming logic using Python.
+
+CS101 – Foundations of Programming (4 credits)
+Fundamentals of programming, control structures, functions, and data types.
+
+CS102 – Discrete Mathematics (3 credits)
+Logic, sets, relations, combinatorics, graphs, and fundamental proof techniques.
+
+CS110 – Digital Logic and Systems (3 credits)
+Binary systems, logic gates, Boolean algebra, and combinational circuits.
+
+CS111 – Engineering Mathematics I (3 credits)
+Covers calculus, differential equations, and linear algebra basics.
+
+Semester 2
+
+CS120 – Object-Oriented Programming (4 credits)
+Prerequisite: CS101
+Covers OOP principles, classes, inheritance, and design patterns.
+
+CS121 – Data Structures (4 credits)
+Prerequisite: CS101
+Includes arrays, lists, stacks, queues, trees, hashing, and complexity analysis.
+
+CS122 – Computer Organization (3 credits)
+Prerequisite: CS110
+CPU architecture, memory hierarchy, instruction sets, and assembly basics.
+
+CS130 – Software Engineering I (3 credits)
+Prerequisite: CS101
+SDLC, UML, requirements analysis, and introductory testing.
+
+CS131 – Probability & Statistics for CS (3 credits)
+Prerequisite: CS102
+Probability, distributions, estimations, and hypothesis testing.
+
+Semester 3
+
+CS200 – Algorithms I (4 credits)
+Prerequisites: CS121, CS122
+Sorting, searching, divide and conquer, and dynamic programming.
+
+CS201 – Theory of Computation (3 credits)
+Prerequisite: CS102
+Automata, languages, Turing machines, decidability, and complexity.
+
+CS202 – Operating Systems I (4 credits)
+Prerequisite: CS122
+Processes, threads, scheduling, concurrency, and memory management.
+
+CS210 – Database Systems (3 credits)
+Prerequisite: CS121
+Relational algebra, SQL, schema design, indexing, and transactions.
+
+CS211 – Computer Networks I (3 credits)
+Prerequisite: CS122
+OSI model, TCP/IP, routing, and socket programming.
+
+Semester 4
+
+CS220 – Algorithms II (4 credits)
+Prerequisite: CS200
+Advanced algorithms, graph algorithms, and approximation methods.
+
+CS221 – Software Engineering II (3 credits)
+Prerequisite: CS130
+Architecture patterns, CI/CD, testing strategies, and project management.
+
+CS222 – Machine Learning Basics (4 credits)
+Prerequisites: CS131, CS121
+Supervised/unsupervised learning, evaluation, and ML pipelines.
+
+CS230 – Web Technologies (3 credits)
+Prerequisite: CS120
+Frontend/backend fundamentals, REST APIs, and web deployment.
+
+CS231 – Human-Computer Interaction (3 credits)
+Prerequisite: CS130
+UI/UX principles, usability testing, and prototyping.
+
+Semester 5
+
+CS300 – Distributed Systems (3 credits)
+Prerequisite: CS202
+Distributed computing, consensus algorithms, fault tolerance, and scalability.
+
+CS301 – Compiler Design (4 credits)
+Prerequisite: CS200
+Lexing, parsing, symbol tables, IR, optimizations, and code generation.
+
+CS302 – Database Internals (3 credits)
+Prerequisite: CS210
+Storage engines, query optimizations, indexing, and transactions.
+
+CS310 – Advanced Networks (3 credits)
+Prerequisite: CS211
+Advanced routing, network security, SDN, and wireless networking.
+
+CS311 – Information Retrieval (3 credits)
+Prerequisite: CS210
+Search engines, indexing, ranking, and evaluation.
+
+Semester 6
+
+CS320 – AI Foundations (4 credits)
+Prerequisite: CS222
+Search, reasoning, knowledge representation, and planning.
+
+CS321 – Deep Learning (4 credits)
+Prerequisite: CS222
+Neural networks, CNNs, RNNs, optimization, and DL training pipelines.
+
+CS322 – Cloud Computing (3 credits)
+Prerequisite: CS300
+Virtualization, containers, cloud services, orchestration.
+
+CS330 – Security & Privacy (3 credits)
+Prerequisite: CS202
+Cryptography basics, secure coding, threat modeling, privacy.
+
+CS331 – Mobile App Development (3 credits)
+Prerequisite: CS230
+Frameworks, offline-first design, platform-specific optimizations.
+
+Semester 7
+
+CS400 – Capstone Project I (4 credits)
+Prerequisites: CS221, CS321
+Project proposal, planning, initial implementation.
+
+CS401 – Elective: Advanced Algorithms (3 credits)
+Prerequisite: CS220
+Randomized, streaming, and parallel algorithms.
+
+CS402 – Elective: NLP (3 credits)
+Prerequisite: CS321
+Text processing, embeddings, sequence models.
+
+Semester 8
+
+CS410 – Internship / Industrial Training (4 credits)
+Prerequisite: CS400
+Industrial experience and final report.
+
+CS411 – Capstone Project II (4 credits)
+Prerequisite: CS400
+Project completion, evaluation, and demonstration.
+
+CS412 – Elective: Blockchain Systems (3 credits)
+Prerequisite: CS300
+Distributed ledgers, consensus, smart contracts.
+
+🎓 B.TECH – INFORMATION TECHNOLOGY (IT)
+
+(I will condense slightly while keeping RAG-friendly clarity.)
+
+Semester 1
+
+IT200 Intro to Information Technology — basics of IT systems.
+IT201 Programming Fundamentals — scripting and problem solving.
+IT202 Mathematics for IT — discrete math and probability.
+IT210 Digital Systems — logic gates and microcontrollers.
+IT211 Communication Skills — report writing and presentations.
+
+Semester 2
+
+IT220 OOS — OOP and design patterns.
+IT221 Database Applications — DB apps and API integrations.
+IT222 Network Basics — LAN, protocols.
+IT230 System Administration — Linux, servers, cloud basics.
+IT231 Probability & Stats — analytics foundation.
+
+Semester 3
+
+IT300 Web Systems — REST, deployment.
+IT301 Project Management — Agile, Scrum.
+IT302 Scripting for Automation — Python, shell, ETL.
+IT310 IoT Fundamentals — sensors, interfacing.
+IT311 Intro to Cybersecurity — threats, defenses.
+
+Semester 4
+
+IT320 Enterprise Systems
+IT321 Cloud Services
+IT322 Data Visualization
+IT330 Mobile Systems
+IT331 DevOps Practices
+
+Capstone & Internship
+
+IT400 Capstone I
+IT401 Advanced Topics in IT
+IT402 Internship
+IT410 Capstone II
+
+🎓 B.TECH – ARTIFICIAL INTELLIGENCE & DATA SCIENCE (AI-DS)
+
+(Full natural language list maintained.)
+
+Semester 1
+
+AD300 Foundations of AI & DS
+AD301 Programming for AI
+AD302 Linear Algebra
+AD310 Statistics
+AD311 Intro to Databases
+
+Semester 2
+
+AD320 Data Wrangling & EDA
+AD321 Data Structures
+AD322 Probability & Info Theory
+AD330 Machine Learning
+AD331 Python for Deep Learning
+
+Semester 3
+
+AD400 Applied ML
+AD401 Database Systems
+AD402 Big Data
+AD410 Deep Learning Architectures
+AD411 NLP
+
+Semester 4
+
+AD420 MLOps
+AD421 Probabilistic Graphical Models
+AD422 Reinforcement Learning
+
+Semester 7–8
+
+AD430 Capstone I
+AD431 Capstone II
+AD432 Ethics & Responsible AI
+
+🎓 B.TECH – MECHANICAL ENGINEERING (ME)
+
+(Shortened but rich in detail for embeddings.)
+
+Semesters 1–2
+
+ME400 Engineering Graphics
+ME401 Material Science
+ME402 Engineering Mechanics
+ME410 Thermodynamics I
+ME411 Workshop Practice
+ME420 Mechanics of Materials
+ME421 Kinematics
+ME422 Fluid Mechanics
+ME430 Manufacturing Processes
+
+Semesters 3–6
+
+ME431 Thermal Engineering
+ME432 Machine Design I
+ME440 Dynamics of Machinery
+ME441 Finite Element Methods
+ME450 Heat Transfer
+ME451 Advanced Manufacturing
+ME452 Mechanical Systems Design II
+
+Capstone
+
+ME460 Project I
+ME461 Project II
+
+🎓 B.TECH – ELECTRONICS & COMMUNICATION ENGINEERING (ECE)
+Core Courses
+
+EC500 Circuit Theory
+EC501 Signals & Systems
+EC502 Electronics
+EC510 Digital Electronics
+EC511 Electromagnetics
+EC520 Analog Circuits
+EC521 Microprocessors
+EC522 Signal Processing
+EC530 Communication Systems
+EC531 Control Systems
+EC540 VLSI Basics
+EC541 Embedded Systems
+EC542 Digital Signal Processing
+EC550 Antennas
+EC551 Wireless Communications
+EC560 Digital IC Design
+EC561 RF Circuit Design
+EC570 Capstone I
+EC571 Capstone II
+
+🎓 M.TECH (All Branches)
+
+The text file includes ALL M.Tech courses rewritten:
+
+MTech CS (MCS600–MCS631)
+
+MTech DS (MDS620–MDS641)
+
+MTech VLSI (MVL640–MVL661)
+
+MTech Mechanical Design (MMD660–MMD675)
+
+Each course includes:
+✔ description
+✔ semester
+✔ credits
+✔ prerequisites
+
+🎓 PhD COURSEWORK
+
+Includes:
+
+PhD CS (PH700–PH729)
+
+PhD Management
+
+PhD Engineering

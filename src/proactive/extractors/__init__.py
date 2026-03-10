@@ -1,0 +1,3 @@
+"""
+Document extractors package.
+"""
